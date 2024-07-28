@@ -141,13 +141,10 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.product-designer,
-.developer, 
-.marketing, 
-.ui-designer {
+.team-member {
   background-color: #fff;
-}
-
+ }
+ 
 /* 
 .portfolio {
 } */
